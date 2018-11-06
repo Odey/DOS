@@ -1,0 +1,6 @@
+Seq No. 1 Device:State -> 1:68 - Tempsensor
+Seq No. 2 Device:State -> 2:INACTIVE - Motion_sensor
+Seq No. 3 Device:State -> 3:HIGH INTENSITY - SamrtBulb
+Seq No. 4 Device:State -> 1:50 - Tempsensor
+Seq No. 5 Device:State -> 2:ACTIVE - Motion_sensor
+Seq No. 6 Device:State -> 3:OFF - SamrtBulb

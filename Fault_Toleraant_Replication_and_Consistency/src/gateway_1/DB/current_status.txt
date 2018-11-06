@@ -1,0 +1,5 @@
+1492639793.45 2 tempSensor 56 
+1492639798.12 3 smartOutlet 0 
+1492639803.32 4 doorSensor 0 
+1492639804.29 5 smartBulb 1 
+1492639804.18 6 motionSensor 1 
